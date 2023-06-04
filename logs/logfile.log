@@ -120,3 +120,15 @@ INFO  - 2023-06-04 22:50:30.835; TelevisionPage: Actual Category Title :Televisi
 INFO  - 2023-06-04 22:50:31.162; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
 INFO  - 2023-06-04 22:50:31.164; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
 INFO  - 2023-06-04 22:50:32.891; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-05 00:48:42.731; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-05 00:48:42.739; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-05 00:49:24.964; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-05 00:49:34.408; LandingPage: Verifying screen title
+INFO  - 2023-06-05 00:49:34.784; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-05 00:49:34.797; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-05 00:49:34.799; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-05 00:49:51.478; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-05 00:49:51.481; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-05 00:49:51.729; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-05 00:49:51.733; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-05 00:49:52.163; TelevisionPage: Verifying article list is displayed :true
