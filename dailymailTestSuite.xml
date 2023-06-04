@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DailyMail App Test Suite">
+    <listeners>
+        <listener class-name="com.dailymailapp.listeners.TestListeners"></listener>
+    </listeners>
+    <test name = "BestBuyArticleViewTest">
+        <classes>
+            <class name = "com.dailymailapp.test.ViewArticleFlow" />
+        </classes>
+    </test>
+</suite>

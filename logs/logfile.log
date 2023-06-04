@@ -1,0 +1,122 @@
+INFO  - 2023-06-04 16:46:37.206; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 16:46:37.215; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 16:49:07.098; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 16:49:07.110; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 16:50:37.548; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 16:50:38.138; LandingPage: Verifying screen title
+INFO  - 2023-06-04 16:50:38.365; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 17:00:30.550; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 17:00:30.557; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 17:01:10.126; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 17:01:10.944; LandingPage: Verifying screen title
+INFO  - 2023-06-04 17:01:11.197; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 17:01:32.742; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 17:01:32.747; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 17:01:33.021; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 17:01:33.023; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 17:05:23.419; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 17:05:23.424; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 17:05:56.675; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 17:05:57.565; LandingPage: Verifying screen title
+INFO  - 2023-06-04 17:05:57.795; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 17:06:21.147; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 17:06:21.156; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 17:06:21.520; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 17:06:21.522; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 17:06:23.115; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 17:07:26.100; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 17:07:26.105; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 17:08:00.220; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 17:08:01.232; LandingPage: Verifying screen title
+INFO  - 2023-06-04 17:08:01.473; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 17:08:01.482; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 17:08:01.484; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 17:08:20.118; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 17:08:20.128; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 17:08:54.789; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 17:08:55.869; LandingPage: Verifying screen title
+INFO  - 2023-06-04 17:08:56.093; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 17:08:56.103; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 17:08:56.107; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 21:42:07.310; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 21:42:07.319; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 21:42:52.826; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 21:42:53.641; LandingPage: Verifying screen title
+INFO  - 2023-06-04 21:42:53.856; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 21:42:53.865; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 21:42:53.868; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 21:43:07.889; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 21:43:07.890; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 21:43:08.219; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:43:08.220; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:43:08.491; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 21:43:37.464; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 21:43:37.478; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 21:54:08.782; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 21:54:08.788; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 21:54:43.542; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 21:54:46.572; LandingPage: Verifying screen title
+INFO  - 2023-06-04 21:54:46.838; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 21:54:46.848; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 21:54:46.851; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 21:55:04.709; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 21:55:04.712; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 21:55:05.208; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:55:05.218; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:55:06.761; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 21:55:18.640; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 21:55:18.646; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 21:55:46.772; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 21:55:46.777; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 21:56:22.512; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 21:56:24.575; LandingPage: Verifying screen title
+INFO  - 2023-06-04 21:56:24.854; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 21:56:24.863; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 21:56:24.866; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 21:56:43.852; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 21:56:43.855; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 21:56:44.102; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:56:44.104; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 21:56:44.427; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 22:38:02.198; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 22:38:02.206; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 22:38:02.218; TestListeners: Test Suite Execution Started :BestBuyArticleViewTest
+INFO  - 2023-06-04 22:38:39.498; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 22:38:39.529; TestListeners: TestExecution started :verifyUserIsAbleToViewArticleListBasedOnCategorySelected
+INFO  - 2023-06-04 22:38:46.685; LandingPage: Verifying screen title
+INFO  - 2023-06-04 22:38:47.049; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 22:38:47.058; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 22:38:47.058; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 22:39:12.455; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 22:39:12.458; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 22:39:12.707; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:39:12.709; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:39:12.906; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 22:39:13.088; TestListeners: Test executed Successfully!!! :verifyUserIsAbleToViewArticleListBasedOnCategorySelected
+INFO  - 2023-06-04 22:39:13.265; TestListeners: Test Suite Execution completed :BestBuyArticleViewTest
+INFO  - 2023-06-04 22:46:05.996; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 22:46:06.002; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 22:47:23.835; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 22:47:23.842; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 22:48:06.863; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 22:48:09.758; LandingPage: Verifying screen title
+INFO  - 2023-06-04 22:48:10.065; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 22:48:10.082; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 22:48:10.083; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 22:48:33.689; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 22:48:33.695; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 22:48:34.177; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:48:34.179; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:48:35.869; TelevisionPage: Verifying article list is displayed :true
+INFO  - 2023-06-04 22:49:29.983; BaseTest: Test Run on :LOCALHOST
+INFO  - 2023-06-04 22:49:29.996; BaseTest: Environment Loaded :QA
+INFO  - 2023-06-04 22:50:08.487; BaseTest: Opening Url:https://www.dailymail.co.uk/best-buys/
+INFO  - 2023-06-04 22:50:10.529; LandingPage: Verifying screen title
+INFO  - 2023-06-04 22:50:10.851; LandingPage: Verification Successfull!!!
+INFO  - 2023-06-04 22:50:10.861; NavigationBar: Selecting Category as : TECH
+INFO  - 2023-06-04 22:50:10.864; NavigationBar: Selecting SubCategory as : Televisions
+INFO  - 2023-06-04 22:50:30.834; TelevisionPage: Expected Category Title :Televisions
+INFO  - 2023-06-04 22:50:30.835; TelevisionPage: Actual Category Title :Televisions
+INFO  - 2023-06-04 22:50:31.162; TelevisionPage: Expected Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:50:31.164; TelevisionPage: Actual Category Title :The right TV can make spending time at home feel like a luxury. Whether you’re looking for a big-screen setup, a smart TV to stream your favorite shows or a more discreet option to match your home decor, we’ve got you covered. Our editors have done extensive research and compared across top brands to help you find the perfect TV — with the exact screen size, features and resolution that you’re after.
+INFO  - 2023-06-04 22:50:32.891; TelevisionPage: Verifying article list is displayed :true
