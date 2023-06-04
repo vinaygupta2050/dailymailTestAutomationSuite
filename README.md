@@ -119,7 +119,7 @@ I have used testNG and its annotation to write the automation test
 
 ### Execution logs
 
-ExecutionVideo/dailymailTestSuiteExecutionLogs.gif
+[ExecutionVideo/dailymailTestSuiteExecutionLogs.gif](https://github.com/vinaygupta2050/dailymailTestAutomationSuite/blob/main/ExecutionVideo/dailymailTestSuiteExecutionLogs.gif)
 
 ## Authors
 
