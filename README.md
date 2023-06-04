@@ -1,4 +1,4 @@
-# Amber WebApp Test Automation Framework
+# Dailymail WebApp Test Automation Framework
 
 ## Getting Started
 
